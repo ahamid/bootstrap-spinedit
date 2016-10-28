@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-spinedit",
+  "version": "0.0.1",
+  "description": "bootstrap-spinedit fork packaged for npm",
+  "main": "js/bootstrap-spinedit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahamid/bootstrap-spinedit.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "spinedit"
+  ],
+  "author": "Aaron Hamid <aaron.hamid@gmail.com> (https://github.com/ahamid)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahamid/bootstrap-spinedit/issues"
+  },
+  "homepage": "https://github.com/ahamid/bootstrap-spinedit#readme"
+}
